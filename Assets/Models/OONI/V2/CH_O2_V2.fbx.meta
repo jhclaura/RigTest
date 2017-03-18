@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 6d16414990c6f49629a4f021657f93d9
+timeCreated: 1489856142
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: o_tube1
+    100004: sk2_joc_curve1_0
+    100006: sk2_joc_curve1_1
+    100008: sk2_joc_curve1_10
+    100010: sk2_joc_curve1_11
+    100012: sk2_joc_curve1_12
+    100014: sk2_joc_curve1_13
+    100016: sk2_joc_curve1_14
+    100018: sk2_joc_curve1_15
+    100020: sk2_joc_curve1_16
+    100022: sk2_joc_curve1_17
+    100024: sk2_joc_curve1_18
+    100026: sk2_joc_curve1_19
+    100028: sk2_joc_curve1_2
+    100030: sk2_joc_curve1_20
+    100032: sk2_joc_curve1_21
+    100034: sk2_joc_curve1_22
+    100036: sk2_joc_curve1_23
+    100038: sk2_joc_curve1_24
+    100040: sk2_joc_curve1_25
+    100042: sk2_joc_curve1_26
+    100044: sk2_joc_curve1_27
+    100046: sk2_joc_curve1_28
+    100048: sk2_joc_curve1_29
+    100050: sk2_joc_curve1_3
+    100052: sk2_joc_curve1_30
+    100054: sk2_joc_curve1_31
+    100056: sk2_joc_curve1_32
+    100058: sk2_joc_curve1_33
+    100060: sk2_joc_curve1_34
+    100062: sk2_joc_curve1_35
+    100064: sk2_joc_curve1_36
+    100066: sk2_joc_curve1_37
+    100068: sk2_joc_curve1_38
+    100070: sk2_joc_curve1_39
+    100072: sk2_joc_curve1_4
+    100074: sk2_joc_curve1_40
+    100076: sk2_joc_curve1_41
+    100078: sk2_joc_curve1_5
+    100080: sk2_joc_curve1_6
+    100082: sk2_joc_curve1_7
+    100084: sk2_joc_curve1_8
+    100086: sk2_joc_curve1_9
+    400000: //RootNode
+    400002: o_tube1
+    400004: sk2_joc_curve1_0
+    400006: sk2_joc_curve1_1
+    400008: sk2_joc_curve1_10
+    400010: sk2_joc_curve1_11
+    400012: sk2_joc_curve1_12
+    400014: sk2_joc_curve1_13
+    400016: sk2_joc_curve1_14
+    400018: sk2_joc_curve1_15
+    400020: sk2_joc_curve1_16
+    400022: sk2_joc_curve1_17
+    400024: sk2_joc_curve1_18
+    400026: sk2_joc_curve1_19
+    400028: sk2_joc_curve1_2
+    400030: sk2_joc_curve1_20
+    400032: sk2_joc_curve1_21
+    400034: sk2_joc_curve1_22
+    400036: sk2_joc_curve1_23
+    400038: sk2_joc_curve1_24
+    400040: sk2_joc_curve1_25
+    400042: sk2_joc_curve1_26
+    400044: sk2_joc_curve1_27
+    400046: sk2_joc_curve1_28
+    400048: sk2_joc_curve1_29
+    400050: sk2_joc_curve1_3
+    400052: sk2_joc_curve1_30
+    400054: sk2_joc_curve1_31
+    400056: sk2_joc_curve1_32
+    400058: sk2_joc_curve1_33
+    400060: sk2_joc_curve1_34
+    400062: sk2_joc_curve1_35
+    400064: sk2_joc_curve1_36
+    400066: sk2_joc_curve1_37
+    400068: sk2_joc_curve1_38
+    400070: sk2_joc_curve1_39
+    400072: sk2_joc_curve1_4
+    400074: sk2_joc_curve1_40
+    400076: sk2_joc_curve1_41
+    400078: sk2_joc_curve1_5
+    400080: sk2_joc_curve1_6
+    400082: sk2_joc_curve1_7
+    400084: sk2_joc_curve1_8
+    400086: sk2_joc_curve1_9
+    4300000: o_tube1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: o_tube1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: o_tube1
+        weight: 1
+      - path: sk2_joc_curve1_0
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14/sk2_joc_curve1_15
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14/sk2_joc_curve1_15/sk2_joc_curve1_16
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14/sk2_joc_curve1_15/sk2_joc_curve1_16/sk2_joc_curve1_17
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14/sk2_joc_curve1_15/sk2_joc_curve1_16/sk2_joc_curve1_17/sk2_joc_curve1_18
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14/sk2_joc_curve1_15/sk2_joc_curve1_16/sk2_joc_curve1_17/sk2_joc_curve1_18/sk2_joc_curve1_19
+        weight: 1
+      - path: sk2_joc_curve1_0/sk2_joc_curve1_1/sk2_joc_curve1_2/sk2_joc_curve1_3/sk2_joc_curve1_4/sk2_joc_curve1_5/sk2_joc_curve1_6/sk2_joc_curve1_7/sk2_joc_curve1_8/sk2_joc_curve1_9/sk2_joc_curve1_10/sk2_joc_curve1_11/sk2_joc_curve1_12/sk2_joc_curve1_13/sk2_joc_curve1_14/sk2_joc_curve1_15/sk2_joc_curve1_16/sk2_joc_curve1_17/sk2_joc_curve1_18/sk2_joc_curve1_19/sk2_joc_curve1_20
+        weight: 1
+      - path: sk2_joc_curve1_21
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35/sk2_joc_curve1_36
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35/sk2_joc_curve1_36/sk2_joc_curve1_37
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35/sk2_joc_curve1_36/sk2_joc_curve1_37/sk2_joc_curve1_38
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35/sk2_joc_curve1_36/sk2_joc_curve1_37/sk2_joc_curve1_38/sk2_joc_curve1_39
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35/sk2_joc_curve1_36/sk2_joc_curve1_37/sk2_joc_curve1_38/sk2_joc_curve1_39/sk2_joc_curve1_40
+        weight: 1
+      - path: sk2_joc_curve1_21/sk2_joc_curve1_22/sk2_joc_curve1_23/sk2_joc_curve1_24/sk2_joc_curve1_25/sk2_joc_curve1_26/sk2_joc_curve1_27/sk2_joc_curve1_28/sk2_joc_curve1_29/sk2_joc_curve1_30/sk2_joc_curve1_31/sk2_joc_curve1_32/sk2_joc_curve1_33/sk2_joc_curve1_34/sk2_joc_curve1_35/sk2_joc_curve1_36/sk2_joc_curve1_37/sk2_joc_curve1_38/sk2_joc_curve1_39/sk2_joc_curve1_40/sk2_joc_curve1_41
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
