@@ -12,5 +12,15 @@ public class AnimationManager : MonoBehaviour {
 		animator = GetComponent<Animator> ();
 		yield return new WaitForSeconds (DelayStart);
 		animator.SetTrigger ("Transform");
+
+		//StartCoroutine (Reset(10f));
+	}
+
+	IEnumerator Reset(float waitTime)
+	{
+		yield return new WaitForSeconds (waitTime);
+		animator.SetTrigger ("Reset");
+
+		StartCoroutine (Reset(15f));
 	}
 }
