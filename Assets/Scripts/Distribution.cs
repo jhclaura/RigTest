@@ -7,7 +7,10 @@ public class Distribution : MonoBehaviour {
 	public List<GameObject> stuffs;
 	public float radius = 3f;
 	public bool rotateMode = true;
-	public float speed = 100f;
+	[Tooltip("how many revolutions per second")]
+	public float revolutions = 60f;
+
+	private float speed;
 
 	void Start ()
 	{
@@ -33,10 +36,13 @@ public class Distribution : MonoBehaviour {
 		creatureMesh.position.y = posYC;
 		creatureMesh.rotation.y = (360/12*0+90)*(Math.PI/180);
 		*/
+
 	}
 
 	void Update()
 	{
+		speed = revolutions * 360f;
+
 		//float rotationValue = speed * Time.deltaTime;
 		transform.Rotate (Vector3.up * Time.deltaTime * speed);
 	}

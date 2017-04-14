@@ -4,36 +4,45 @@ using UnityEngine;
 
 public class StrobeLight : MonoBehaviour {
 
-	public float speed = 0.1f;
-
+	public float flashPerSecond = 60f;
 	public bool strobeLightOn = false;
+
 	private Renderer renderer;
 	private float delay = 0f;
+	private Color maskOn;
+	private Color maskOff; //transparent
+	private float accumulatedTime = 0f;
+	private float timeInterval;
 
 	void Start ()
 	{
 		renderer = GetComponent<Renderer> ();
+
+		maskOff = renderer.material.color;
+		maskOn = new Color (maskOff.a, maskOff.g, maskOff.b, 1f);
+
 	}
 	
 	void Update ()
 	{
-		if (strobeLightOn)
-		{
-			delay += (speed * Time.deltaTime);
-			Debug.Log (delay);
+		if (strobeLightOn) {
+			timeInterval = 1f / flashPerSecond;
+
+			accumulatedTime += Time.deltaTime;
+			//Debug.Log (delay);
 
 			// off
-			if(delay > 1f)
-			{
-				renderer.enabled = true;
+			if (accumulatedTime > timeInterval) {
+				renderer.material.color = maskOff;
 
-				delay = 0f;
+				accumulatedTime = 0f;
+			} else {
+				renderer.material.color = maskOn;
 			}
-			else
-			{
-				if(renderer.enabled)
-					renderer.enabled = false;
-			}
+		} else {
+			// reset
+			renderer.material.color = maskOff;
+			accumulatedTime = 0f;
 		}
 	}
 
@@ -44,7 +53,9 @@ public class StrobeLight : MonoBehaviour {
 
 	public void TurnOffStrobeLight()
 	{
+		// reset
 		strobeLightOn = false;
-		renderer.enabled = true;
+		renderer.material.color = maskOff;
+		accumulatedTime = 0f;
 	}
 }
