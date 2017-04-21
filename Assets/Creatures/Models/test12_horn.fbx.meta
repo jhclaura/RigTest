@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: e73716505c9a44e1da6f84aca1ca8fdc
+timeCreated: 1492747794
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Left
+    100002: Arm_Right
+    100004: BackLeg1_L
+    100006: BackLeg1_R
+    100008: BackLeg2_L
+    100010: BackLeg2_R
+    100012: BackLegFoot_L
+    100014: BackLegFoot_R
+    100016: BackLegToe_L
+    100018: BackLegToe_R
+    100020: Body
+    100022: Bones
+    100024: Box
+    100026: FrontLeg1_L
+    100028: FrontLeg1_R
+    100030: FrontLeg2_L
+    100032: FrontLeg2_R
+    100034: FrontLegFoot_L
+    100036: FrontLegFoot_R
+    100038: FrontLegToe_L
+    100040: FrontLegToe_R
+    100042: Glasses
+    100044: handle_indie
+    100046: HEAD
+    100048: holder
+    100050: Horn
+    100052: horn_bottom
+    100054: horn_head
+    100056: horn_lip_down
+    100058: horn_lip_up
+    100060: HornHead
+    100062: HornHolder
+    100064: Leg_Back_Left
+    100066: Leg_Back_Right
+    100068: Leg_Front_Left
+    100070: Leg_Front_Right
+    100072: reader
+    100074: Record
+    100076: Record_indie
+    100078: RecordPlayer
+    100080: Root
+    100082: Spine
+    100084: Tail
+    100086: //RootNode
+    400000: Arm_Left
+    400002: Arm_Right
+    400004: BackLeg1_L
+    400006: BackLeg1_R
+    400008: BackLeg2_L
+    400010: BackLeg2_R
+    400012: BackLegFoot_L
+    400014: BackLegFoot_R
+    400016: BackLegToe_L
+    400018: BackLegToe_R
+    400020: Body
+    400022: Bones
+    400024: Box
+    400026: FrontLeg1_L
+    400028: FrontLeg1_R
+    400030: FrontLeg2_L
+    400032: FrontLeg2_R
+    400034: FrontLegFoot_L
+    400036: FrontLegFoot_R
+    400038: FrontLegToe_L
+    400040: FrontLegToe_R
+    400042: Glasses
+    400044: handle_indie
+    400046: HEAD
+    400048: holder
+    400050: Horn
+    400052: horn_bottom
+    400054: horn_head
+    400056: horn_lip_down
+    400058: horn_lip_up
+    400060: HornHead
+    400062: HornHolder
+    400064: Leg_Back_Left
+    400066: Leg_Back_Right
+    400068: Leg_Front_Left
+    400070: Leg_Front_Right
+    400072: reader
+    400074: Record
+    400076: Record_indie
+    400078: RecordPlayer
+    400080: Root
+    400082: Spine
+    400084: Tail
+    400086: //RootNode
+    2300000: handle_indie
+    2300002: Record_indie
+    3300000: handle_indie
+    3300002: Record_indie
+    4300000: Box
+    4300002: Record_indie
+    4300004: handle_indie
+    4300006: reader
+    4300008: holder
+    4300010: Leg_Front_Left
+    4300012: Leg_Front_Right
+    4300014: Leg_Back_Left
+    4300016: Leg_Back_Right
+    4300018: Horn
+    4300020: HEAD
+    4300022: Arm_Right
+    4300024: Arm_Left
+    4300026: Glasses
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arm_Left
+    13700002: Arm_Right
+    13700004: Box
+    13700006: Glasses
+    13700008: HEAD
+    13700010: holder
+    13700012: Horn
+    13700014: Leg_Back_Left
+    13700016: Leg_Back_Right
+    13700018: Leg_Front_Left
+    13700020: Leg_Front_Right
+    13700022: reader
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones
+        weight: 1
+      - path: Bones/Root
+        weight: 1
+      - path: Bones/Root/Tail
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_L
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_L/BackLeg2_L
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_L/BackLeg2_L/BackLegFoot_L
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_L/BackLeg2_L/BackLegFoot_L/BackLegToe_L
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_R
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_R/BackLeg2_R
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_R/BackLeg2_R/BackLegFoot_R
+        weight: 1
+      - path: Bones/Root/Tail/BackLeg1_R/BackLeg2_R/BackLegFoot_R/BackLegToe_R
+        weight: 1
+      - path: Bones/Root/Tail/Record
+        weight: 1
+      - path: Bones/Root/Tail/Record/HornHolder
+        weight: 1
+      - path: Bones/Root/Tail/Spine
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_L
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_L/FrontLeg2_L
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_L/FrontLeg2_L/FrontLegFoot_L
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_L/FrontLeg2_L/FrontLegFoot_L/FrontLegToe_L
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_R
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_R/FrontLeg2_R
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_R/FrontLeg2_R/FrontLegFoot_R
+        weight: 1
+      - path: Bones/Root/Tail/Spine/FrontLeg1_R/FrontLeg2_R/FrontLegFoot_R/FrontLegToe_R
+        weight: 1
+      - path: horn_bottom
+        weight: 1
+      - path: horn_head
+        weight: 1
+      - path: horn_head/horn_lip_down
+        weight: 1
+      - path: horn_head/horn_lip_up
+        weight: 1
+      - path: HornHead
+        weight: 1
+      - path: HornHead/Arm_Left
+        weight: 1
+      - path: HornHead/Arm_Right
+        weight: 1
+      - path: HornHead/Glasses
+        weight: 1
+      - path: HornHead/HEAD
+        weight: 1
+      - path: HornHead/Horn
+        weight: 1
+      - path: RecordPlayer
+        weight: 1
+      - path: RecordPlayer/Body
+        weight: 1
+      - path: RecordPlayer/Body/Leg_Back_Left
+        weight: 1
+      - path: RecordPlayer/Body/Leg_Back_Right
+        weight: 1
+      - path: RecordPlayer/Body/Leg_Front_Left
+        weight: 1
+      - path: RecordPlayer/Body/Leg_Front_Right
+        weight: 1
+      - path: RecordPlayer/Box
+        weight: 1
+      - path: RecordPlayer/handle_indie
+        weight: 1
+      - path: RecordPlayer/holder
+        weight: 1
+      - path: RecordPlayer/reader
+        weight: 1
+      - path: RecordPlayer/Record_indie
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
